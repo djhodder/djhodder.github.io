@@ -146,10 +146,10 @@
     "id":8,
     "type":"Territory Areas",
     "title":"The Smeltery",
-    "notes":"Claimed by the Vagos, although they usually don't hold it down.",
+    "notes":"Owned by the Lost MC",
     "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
+	"strokecolor":"#850000",
+	"fillcolor":"#B72D0F",
     "latlngarray": [
 {"lat": 62.257, "lng": -115.231},
 {"lat": 61.441, "lng": -115.376},
