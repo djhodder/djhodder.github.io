@@ -680,11 +680,11 @@
   {
     "id":37,
     "type":"Territory Areas",
-    "title":"Oxy Shop",
-    "notes":"Who uses this place anyways? KEKW",
+    "title":"Syndicate",
+    "notes":"Syndicate Owned Territory",
     "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
+	"strokecolor":"#000000",
+	"fillcolor":"#FFFFFF",
     "latlngarray": [
 {"lat": 63.867, "lng": -123.947},
 {"lat": 63.526, "lng": -124.607},
