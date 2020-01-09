@@ -89,9 +89,8 @@
   {
     "id":6,
     "type":"Territory Areas",
-    "title":"GSF",
-    "notes":"Ay you know we always down to chill.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/The_Families",
+    "title":"Grove Street Family",
+    "notes":"Owned by the Grove Street Family",
     "order":2,
 	"strokecolor":"#008000",
 	"fillcolor":"#008000",
@@ -102,20 +101,12 @@
 		{"lat": 63.874, "lng": -126.898},
 		{"lat": 63.084, "lng": -126.898},
 		{"lat": 62.850, "lng": -126.239}
-	],
-	"video":{
-      "yt_id":"_2M8wtbdg6k",
-      "yt_user":"UCmrt_6WFfHMfiC0xtgR7Qxg",
-      "start":"0:00",
-      "end":"4:57"
-    }
   },
   {
     "id":7,
     "type":"Territory Areas",
     "title":"Vagos",
     "notes":"After the passing of Jesus, Speedy is the new El Jefe and made the Vagos what they are today. His signature line is IM TELLIN YOU PUTO",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Vagos",
     "order":2,
 	"strokecolor":"#FFFF00",
 	"fillcolor":"#FFFF00",
@@ -185,12 +176,11 @@
   {
     "id":10,
     "type":"Territory Areas",
-    "title":"Bondi Boys MC",
-    "notes":"Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
+    "title":"Vespucci Beach",
+    "notes":"Owned by the Grove Street Family",
     "order":2,
-	"strokecolor":"#1560bd",
-	"fillcolor":"#1560bd",
+	"strokecolor":"#008000",
+	"fillcolor":"#008000",
     "latlngarray": [
 		{"lat": 66.579, "lng": -137.638},
 		{"lat": 66.134, "lng": -138.715},
