@@ -276,12 +276,11 @@
   {
     "id":14,
     "type":"Territory Areas",
-    "title":"Quickfix",
-    "notes":"Fill me in :)",
-	"wiki_link":"https://nopixel.fandom.com/wiki/QuickFix_(Clubhouse)",
+    "title":"Lost MC Club House",
+    "notes":"The Lost MC Club House",
     "order":2,
-	"strokecolor":"#747474",
-	"fillcolor":"#747474",
+	"strokecolor":"#000000",
+	"fillcolor":"#ffffff",
     "latlngarray": [
 		{"lat": 69.418, "lng": -115.109},
 		{"lat": 69.239, "lng": -115.493},
