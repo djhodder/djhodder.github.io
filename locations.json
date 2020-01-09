@@ -306,12 +306,11 @@
   {
     "id":17,
     "type":"Territory Areas",
-    "title":"H.O.A. / Mirror Park",
-    "notes":"Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/HOA",
+    "title":"Mirror Park",
+    "notes":"Owned by The Lost MC",
     "order":2,
-	"strokecolor":"#FFA500",
-	"fillcolor":"#FFA500",
+	"strokecolor":"#850000",
+	"fillcolor":"#B72D0F",
     "latlngarray": [
 		{"lat": 68.808, "lng": -113.097},
 		{"lat": 68.997, "lng": -114.492},
