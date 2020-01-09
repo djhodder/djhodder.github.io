@@ -295,12 +295,12 @@
   {
     "id":16,
     "type":"Territory Areas",
-    "title":"The Russians",
+    "title":"Syndicate",
     "notes":"Da Comrade, you may not like us, but you must like vodka. Protecting/taxing the Wizard",
 	"wiki_link":"https://nopixel.fandom.com/wiki/The_Russian_Mafia",
     "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#fd5e53",
+	"strokecolor":"#000000",
+	"fillcolor":"#505050",
     "latlngarray": [
 		{"lat": 57.356, "lng": -117.026},
 		{"lat": 54.927, "lng": -117.026},
