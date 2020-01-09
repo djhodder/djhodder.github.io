@@ -181,25 +181,7 @@
 {"lat": 64.850, "lng": -122.580}
 ]
   },
-  {
-    "id":9,
-    "type":"Territory Areas",
-    "title":"Aztecas East Side",
-    "notes":"More territory claimed by Aztecas",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
-    "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#0000FF",
-    "latlngarray": [
-		{"lat": 64.180, "lng": -113.902},
-		{"lat": 63.712, "lng": -113.902},
-		{"lat": 63.075, "lng": -113.441},
-		{"lat": 63.499, "lng": -111.749},
-		{"lat": 64.043, "lng": -110.321},
-		{"lat": 63.860, "lng": -112.221},
-		{"lat": 64.200, "lng": -112.474}
-	]
-  },
+
   {
     "id":10,
     "type":"Territory Areas",
