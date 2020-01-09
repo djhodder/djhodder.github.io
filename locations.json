@@ -185,12 +185,11 @@
   {
     "id":10,
     "type":"Territory Areas",
-    "title":"Bondi Boys MC",
-    "notes":"Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
+    "title":"Vespucci Beach",
+    "notes":"Owned by the Grove Street Family",
     "order":2,
-	"strokecolor":"#1560bd",
-	"fillcolor":"#1560bd",
+	"strokecolor":"#008000",
+	"fillcolor":"#008000",
     "latlngarray": [
 		{"lat": 66.579, "lng": -137.638},
 		{"lat": 66.134, "lng": -138.715},
