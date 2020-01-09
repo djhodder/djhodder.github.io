@@ -7,7 +7,7 @@
 	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
     "order":1,
 	"strokecolor":"#000000",
-	"fillcolor":"#505050",
+	"fillcolor":"#FFFFFF",
     "latlngarray": [
 {"lat": 62.957, "lng": -125.134},
 {"lat": 62.802, "lng": -125.947},
@@ -300,7 +300,7 @@
 	"wiki_link":"https://nopixel.fandom.com/wiki/The_Russian_Mafia",
     "order":2,
 	"strokecolor":"#000000",
-	"fillcolor":"#505050",
+	"fillcolor":"#FFFFFF",
     "latlngarray": [
 		{"lat": 57.356, "lng": -117.026},
 		{"lat": 54.927, "lng": -117.026},
