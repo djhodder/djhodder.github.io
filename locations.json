@@ -19,7 +19,8 @@
     "id":2,
     "type":"Territory Areas",
     "title":"Ballas",
-    "notes":"The Last Known Balla Big Z Owns This Land",
+    "notes":"A once forgotten gang, the Ballas were brought to life with the return of Curtis Davis III, however, the Lean Bois are now claiming their long held territory.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/East_Side_Ballaz",
     "order":1,
 	"strokecolor":"#551a8b",
 	"fillcolor":"#551a8b",
@@ -221,6 +222,20 @@
 	]
   },
   {
+    "id":12,
+    "type":"Territory Areas",
+    "title":"Ace King",
+    "notes":"Owned By: ",
+    "order":2,
+	"strokecolor":"#fd5e53",
+	"fillcolor":"#fd5e53",
+    "latlngarray": [
+		{"lat": 69.057, "lng": -123.763},
+		{"lat": 68.911, "lng": -123.950},
+		{"lat": 68.859, "lng": -123.598},
+		{"lat": 69.009, "lng": -123.400}
+	]
+  },
   {
     "id":13,
     "type":"Territory Areas",
@@ -354,6 +369,20 @@
 	]
   },
   {
+    "id":21,
+    "type":"Neutral Zones",
+    "title":"West Side Motel",
+    "notes":"Prime time hostage taking VOL. 2",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#fff",
+    "latlngarray": [
+		{"lat": 67.462, "lng": -138.802},
+		{"lat": 67.315, "lng": -139.424},
+		{"lat": 67.217, "lng": -139.072},
+		{"lat": 67.353, "lng": -138.578}
+	]
+  },
   {
     "id":22,
     "type":"Neutral Zones",
@@ -402,6 +431,21 @@
 	]
   },
   {
+    "id":26,
+    "type":"Territory Areas",
+    "title":"The Dam",
+    "notes":"Claimed by HOA",
+    "order":2,
+	"strokecolor":"#FFA500",
+	"fillcolor":"#FFA500",
+    "latlngarray": [
+		{"lat": 69.823, "lng": -108.579},
+		{"lat": 69.724, "lng": -108.909},
+		{"lat": 69.598, "lng": -108.678},
+		{"lat": 69.394, "lng": -108.623},
+		{"lat": 69.410, "lng": -108.000},
+		{"lat": 69.675, "lng": -108.260}
+	]
   },
   {
     "id":27,
@@ -437,6 +481,19 @@
 	]
   },
   {
+    "id":29,
+    "type":"Neutral Zones",
+    "title":"Integrity Tower",
+    "notes":"The upgraded apartments for high-class citizens.",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#000000",
+    "latlngarray": [
+{"lat": 67.477, "lng": -122.005},
+{"lat": 67.334, "lng": -122.170},
+{"lat": 67.223, "lng": -121.357},
+{"lat": 67.367, "lng": -121.181}
+]
   },
   {
     "id":30,
@@ -454,6 +511,22 @@
 	]
   },
   {
+    "id":31,
+    "type":"Territory Areas",
+    "title":"DeathDealer MC",
+    "notes":"The north is strong.",
+    "order":2,
+	"strokecolor":"#FFFFFF",
+	"fillcolor":"#000",
+    "latlngarray": [
+		{"lat": 83.222, "lng": -125.764},
+		{"lat": 83.173, "lng": -126.178},
+		{"lat": 83.072, "lng": -126.716},
+		{"lat": 83.028, "lng": -126.343},
+		{"lat": 83.112, "lng": -125.673},
+		{"lat": 83.164, "lng": -125.189}
+	]
+  },
   {
     "id":32,
     "type":"Territory Areas",
@@ -476,6 +549,21 @@
 ]
   },
   {
+    "id":33,
+    "type":"Territory Areas",
+    "title":"Cop Killa Records",
+    "notes":"Headquarter and studios of CKR",
+    "order":2,
+	"strokecolor":"#B2951A",
+	"fillcolor":"#666666",
+    "latlngarray": [
+		{"lat": 67.238, "lng": -121.027},
+		{"lat": 66.917, "lng": -121.324},
+		{"lat": 66.921, "lng": -120.742},
+	  	{"lat": 67.234, "lng": -120.753}
+	]
+  },
+  {
     "id":34,
     "type":"Territory Areas",
     "title":"The Cemetery",
@@ -495,6 +583,26 @@
 	]
   },
   {
+    "id":35,
+    "type":"Neutral Zones",
+    "title":"Parsons Hill",
+    "notes":"A Rehabilitation & Health Care Center for 51-50'd patients/criminals to stay out of regular prison.",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFB6C1",
+    "latlngarray": [
+{"lat": 72.540, "lng": -139.174},
+{"lat": 72.327, "lng": -140.255},
+{"lat": 72.184, "lng": -140.145},
+{"lat": 72.120, "lng": -140.365},
+{"lat": 72.055, "lng": -140.299},
+{"lat": 72.035, "lng": -140.167},
+{"lat": 72.120, "lng": -139.530},
+{"lat": 72.261, "lng": -138.739},
+{"lat": 72.401, "lng": -138.849},
+{"lat": 72.500, "lng": -138.959}
+]
+  },
   {
     "id":36,
     "type":"Territory Areas",
@@ -564,6 +672,20 @@
 {"lat": 63.565, "lng": -123.079}
 ]
   },
-
+  
+    {
+    "id":39,
+    "type":"Neutral Zones",
+    "title":"North Side Motel",
+    "notes":"Prime time hostage taking VOL. 3",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#fff",
+    "latlngarray":   [
+{"lat": 70.580, "lng": -119.984},
+{"lat": 70.378, "lng": -120.170},
+{"lat": 70.300, "lng": -119.335},
+{"lat": 70.477, "lng": -119.149}
+]
   }
 ]
